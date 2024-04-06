@@ -10,3 +10,5 @@ media: https://www.bilibili.com/video/BV1H4411H7ds/
 "熵增"就是混乱在不断增加的意思
 这条定律揭示了宇宙万物
 都一直从秩序走向混乱
+
+111
