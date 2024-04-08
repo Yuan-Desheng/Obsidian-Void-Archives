@@ -11,12 +11,8 @@
             "id": "f927dc8193ce741d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian同步/Obsidian同步.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian同步/Obsidian同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian同步/Obsidian同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian同步/Obsidian同步.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +141,8 @@
   },
   "active": "f927dc8193ce741d",
   "lastOpenFiles": [
-    "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
     "Obsidian同步/Obsidian同步.md",
+    "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
     "Obsidian同步/Pasted image 20240408223505.png",
     "Obsidian同步/Pasted image 20240408223326.png",
     "create a link.md",
