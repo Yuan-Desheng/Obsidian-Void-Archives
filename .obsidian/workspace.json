@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce1d9d762548b29d",
@@ -150,9 +149,9 @@
   },
   "active": "8c621ff58b3fc8b0",
   "lastOpenFiles": [
+    "create a link.md",
     "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
     "Welcome.md",
-    "create a link.md",
     "热脑",
     "Void Archives/热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
     "Void Archives/热脑",
