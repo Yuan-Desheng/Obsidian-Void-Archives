@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "c887fb5ce5aedffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a984020133c7cb42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8964a084bfe4158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b5d354425609bb1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0fffe4be237c889a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aac14b267033a97e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8134b0e9a10c73c6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2faa283a8f924a80",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "42dab406d63293a8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0bc6b9999b7dadd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b61cc1ed9add5d2d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "95da29db63eb9991",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8964a084bfe4158",
+  "lastOpenFiles": [
+    "create a link.md",
+    "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md"
+  ]
+}
