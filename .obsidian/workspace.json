@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13c6a749977c30fd",
+        "id": "f47618085c32f925",
         "type": "tabs",
         "children": [
           {
-            "id": "8c621ff58b3fc8b0",
+            "id": "f927dc8193ce741d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8c621ff58b3fc8b0",
+  "active": "f927dc8193ce741d",
   "lastOpenFiles": [
-    "create a link.md",
     "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
+    "Obsidian同步/Obsidian同步.md",
+    "Obsidian同步/Pasted image 20240408223505.png",
+    "Obsidian同步/Pasted image 20240408223326.png",
+    "create a link.md",
+    "Obsidian同步",
+    "Obsidian同步/Pasted image 20240408223607.png",
+    "Obsidian同步/Pasted image 20240408223548.png",
+    "Obsidian同步/Pasted image 20240408223435.png",
+    "Obsidian同步/Pasted image 20240408223417.png",
     "Welcome.md",
     "热脑",
     "Void Archives/热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
