@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f47618085c32f925",
+        "id": "8ff49223e3583e99",
         "type": "tabs",
         "children": [
           {
-            "id": "f927dc8193ce741d",
+            "id": "95e80fd9bad6a100",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian使用技巧/Obsidian同步.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian使用技巧/Obsidian同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian使用技巧/Obsidian同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian使用技巧/Obsidian同步.md"
+              }
             }
           }
         ]
@@ -139,18 +147,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f927dc8193ce741d",
+  "active": "1ce243c3d12acf23",
   "lastOpenFiles": [
-    "Obsidian同步/Obsidian同步.md",
-    "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
-    "Obsidian同步/Pasted image 20240408223505.png",
-    "Obsidian同步/Pasted image 20240408223326.png",
-    "create a link.md",
-    "Obsidian同步",
-    "Obsidian同步/Pasted image 20240408223607.png",
     "Obsidian同步/Pasted image 20240408223548.png",
     "Obsidian同步/Pasted image 20240408223435.png",
+    "Obsidian同步/Pasted image 20240408223505.png",
     "Obsidian同步/Pasted image 20240408223417.png",
+    "Obsidian同步/Pasted image 20240408223326.png",
+    "Obsidian使用技巧/Obsidian同步.md",
+    "Obsidian同步/Pasted image 20240408223607.png",
+    "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
+    "create a link.md",
+    "Obsidian使用技巧",
     "Welcome.md",
     "热脑",
     "Void Archives/热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",

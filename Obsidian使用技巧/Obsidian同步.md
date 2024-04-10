@@ -3,7 +3,9 @@
 
 這裡以 iOS 為例，首先在 App Store 中安裝 [Odsidian](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) 和 [iSH](https://apps.apple.com/tw/app/ish-shell/id1436902243) 這兩個 App。
 
-在開始之前，你可以使用 [Files](https://apps.apple.com/us/app/files/id1232058109) 這個 Apple 官方的檔案管理 App，來查看 Obsidian 存放 Vault 的資料夾是否存在：![[Pasted image 20240408223505.png]]確認好之後，就可以開啟在 iSH 並使用 `apk` 更新當前 Alpine Linux 已安裝的套件，並且安裝 Git 指令工具：
+在開始之前，你可以使用 [Files](https://apps.apple.com/us/app/files/id1232058109) 這個 Apple 官方的檔案管理 App，來查看 Obsidian 存放 Vault 的資料夾是否存在：
+![](https://void-archives-img-01-1318724248.cos.ap-beijing.myqcloud.com/Obsidian/Pasted%20image%2020240408223505.png)
+確認好之後，就可以開啟在 iSH 並使用 `apk` 更新當前 Alpine Linux 已安裝的套件，並且安裝 Git 指令工具：
 
 ```
 apk update & upgrade
@@ -20,7 +22,9 @@ mount -t ios . /mnt/obsidian
 過程中會需要輸入 GitHub 的帳號密碼，如果你有啟動 2FA 的話，就需要產生一組 Personal Access Token 來使用，這裡有一份文件可以參考 [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)。
 
 最後回到 Obsidian App 中，在這裡可以看到稍早復刻下來的資料夾（demo-obsidian-sync）：
-![[Pasted image 20240408223548.png]]開啟這個 Vault 的時候可能會跳出一些錯誤訊息，這是因為還沒有設定好 Git 相關設定，只要到設定頁面中，將 `Authentication/Commit Author` 段落中的設定填妥即可。![[Pasted image 20240408223607.png]]
+![](https://void-archives-img-01-1318724248.cos.ap-beijing.myqcloud.com/Obsidian/Pasted%20image%2020240408223548.png)
+開啟這個 Vault 的時候可能會跳出一些錯誤訊息，這是因為還沒有設定好 Git 相關設定，只要到設定頁面中，將 `Authentication/Commit Author` 段落中的設定填妥即可。
+![](https://void-archives-img-01-1318724248.cos.ap-beijing.myqcloud.com/Obsidian/Pasted%20image%2020240408223607.png)
 [## [安卓使用Git同步Obsidian](https://blog.ibrowse.top/posts/using-git-to-sync-android-obsidian/)](https://blog.ibrowse.top/posts/using-git-to-sync-android-obsidian/)
 - 从[F-Droid](https://f-droid.org/en/packages/com.termux/)上安装[Termux](https://github.com/termux/termux-app)，不要从Google Play Store安装，Play Store上的不再维护了
 - 安装完成后，打开Termux，执行以下命令更新Termux中的软件：
