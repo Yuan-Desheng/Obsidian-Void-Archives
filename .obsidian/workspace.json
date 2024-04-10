@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian使用技巧/Obsidian同步.md",
-                "mode": "source",
+                "file": "Obsidian使用技巧/Obsidian搭建图床.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian使用技巧/Obsidian同步.md",
+                "file": "Obsidian使用技巧/Obsidian搭建图床.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian使用技巧/Obsidian同步.md",
+                "file": "Obsidian使用技巧/Obsidian搭建图床.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian使用技巧/Obsidian同步.md"
+                "file": "Obsidian使用技巧/Obsidian搭建图床.md"
               }
             }
           }
@@ -147,14 +147,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1ce243c3d12acf23",
+  "active": "95e80fd9bad6a100",
   "lastOpenFiles": [
+    "Obsidian使用技巧/Obsidian搭建图床.md",
+    "Obsidian使用技巧/Obsidian同步.md",
     "Obsidian同步/Pasted image 20240408223548.png",
     "Obsidian同步/Pasted image 20240408223435.png",
     "Obsidian同步/Pasted image 20240408223505.png",
     "Obsidian同步/Pasted image 20240408223417.png",
     "Obsidian同步/Pasted image 20240408223326.png",
-    "Obsidian使用技巧/Obsidian同步.md",
     "Obsidian同步/Pasted image 20240408223607.png",
     "热脑/熵增vs涌现！从生命起源聊到宇宙终结.md",
     "create a link.md",
