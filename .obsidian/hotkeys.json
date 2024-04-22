@@ -25,5 +25,13 @@
       "key": "K"
     }
   ],
-  "editor:insert-link": []
+  "editor:insert-link": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ]
 }
